@@ -1,0 +1,24 @@
+﻿  lab4.cpp
+C:\Users\Ivan\Desktop\WORK\vscode\lab4\lab4.cpp(1,4): error C2014: preprocessor command must start as first nonwhite space
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\sal.h(2361,1): error C2144: syntax error: 'int' should be preceded by ';'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\sal.h(2361,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Ivan\Desktop\WORK\vscode\lab4\lab4.cpp(11,5): error C2065: 'cout': undeclared identifier
+C:\Users\Ivan\Desktop\WORK\vscode\lab4\lab4.cpp(12,5): error C2065: 'cin': undeclared identifier
+C:\Users\Ivan\Desktop\WORK\vscode\lab4\lab4.cpp(21,5): error C2065: 'cout': undeclared identifier
+C:\Users\Ivan\Desktop\WORK\vscode\lab4\lab4.cpp(29,5): error C2065: 'cin': undeclared identifier
+C:\Users\Ivan\Desktop\WORK\vscode\lab4\lab4.cpp(31,5): error C2065: 'cout': undeclared identifier
+C:\Users\Ivan\Desktop\WORK\vscode\lab4\lab4.cpp(32,5): error C2065: 'cout': undeclared identifier
+C:\Users\Ivan\Desktop\WORK\vscode\lab4\lab4.cpp(33,5): error C2065: 'cout': undeclared identifier
+C:\Users\Ivan\Desktop\WORK\vscode\lab4\lab4.cpp(34,5): error C2065: 'cout': undeclared identifier
+C:\Users\Ivan\Desktop\WORK\vscode\lab4\lab4.cpp(35,5): error C2065: 'cout': undeclared identifier
+C:\Users\Ivan\Desktop\WORK\vscode\lab4\lab4.cpp(42,5): error C2065: 'cout': undeclared identifier
+C:\Users\Ivan\Desktop\WORK\vscode\lab4\lab4.cpp(43,5): error C2065: 'cin': undeclared identifier
+C:\Users\Ivan\Desktop\WORK\vscode\lab4\lab4.cpp(45,5): error C2065: 'cout': undeclared identifier
+C:\Users\Ivan\Desktop\WORK\vscode\lab4\lab4.cpp(46,5): error C2065: 'cin': undeclared identifier
+C:\Users\Ivan\Desktop\WORK\vscode\lab4\lab4.cpp(50,9): error C2065: 'cout': undeclared identifier
+C:\Users\Ivan\Desktop\WORK\vscode\lab4\lab4.cpp(58,13): error C2065: 'cout': undeclared identifier
+C:\Users\Ivan\Desktop\WORK\vscode\lab4\lab4.cpp(61,13): error C2065: 'cout': undeclared identifier
+C:\Users\Ivan\Desktop\WORK\vscode\lab4\lab4.cpp(70,5): error C2065: 'cout': undeclared identifier
+C:\Users\Ivan\Desktop\WORK\vscode\lab4\lab4.cpp(71,5): error C2065: 'cin': undeclared identifier
+C:\Users\Ivan\Desktop\WORK\vscode\lab4\lab4.cpp(77,9): error C2065: 'cout': undeclared identifier
+C:\Users\Ivan\Desktop\WORK\vscode\lab4\lab4.cpp(80,9): error C2065: 'cout': undeclared identifier
